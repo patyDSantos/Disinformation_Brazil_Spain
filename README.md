@@ -1,4 +1,4 @@
-This repository contains the files used in the paper "The Creation of Political Conflict on Twitter: Discourse and Disinformation on COVID-19 Vaccination in Spain and Brazil".
+This repository contains the contains the supplementary files for the paper "The Creation of Political Conflict on Twitter: Discourse and Disinformation on COVID-19 Vaccination in Spain and Brazil".
 
 ABSTRACT
 
